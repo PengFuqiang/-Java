@@ -1,6 +1,7 @@
 package highCode;
 
 //javaµÄÌø×ª
+
 public class OldGrammar {
 	public static void main(String[] args) {
 		int fee = 200;
